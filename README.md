@@ -77,7 +77,7 @@ cd METABARCODING18S
 
 ## 👨‍🔬 Autor
 
-Camilo Malaver Pérez  
+M. sc Sergio Camilo Malaver Pérez  
 Doctorado en Ciencias Biológicas
 
 ---
